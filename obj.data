@@ -1,5 +1,5 @@
 classes= 2
-train  = /content/ModelDragee/train.txt
-valid  = /content/ModelDragee/valid.txt
-names = /content/ModelDragee/obj.names
+train  = /content/MenthosModel/train.txt
+valid  = /content/MenthosModel/valid.txt
+names = /content/MenthosModel/obj.names
 backup = backup/
